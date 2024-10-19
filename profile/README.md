@@ -51,12 +51,14 @@ Let's do this together:
 ## 👩‍💻 Where can the community find resources?
 ## 👩‍💻 我如何找到开卷有益工作室的资源？
 Our projects and resources are available on GitHub, where you can access our coursework, discussions, and open-source tools.
+
 我们的项目和资源都在GitHub上，大家可以获取我们的作业、讨论和开源工具。
 
 ## 🍿 Fun facts
 ## 🍿 有趣的事实
 We believe learning should be fun and collaborative! Who knows? Maybe you'll discover a new favorite breakfast recipe along the way!
+
 我们相信学习应该是有趣且协作的！或许你还能和学习伙伴一起发现新的早餐食谱呢！
 
 ## 🧙 Remember, you can do mighty things with the power of open-source and open-book collaboration!
-## 请记住，通过开源与开卷的协作，你可以成就伟大的事情！
+## 🧙 请记住，通过开源与开卷的协作，你可以成就伟大的事情！
