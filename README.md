@@ -1,4 +1,4 @@
-# 开卷有益工作室 Open-Book-Studio
+# Open-Book-Studio 开卷有益工作室 
 Inspired by the ancient Chinese proverb "开卷有益" (Opening a book is beneficial), Open-Book-Studio is an open-source initiative dedicated to fostering collaborative learning and knowledge sharing. We believe that learning should be accessible, transparent, and mutually beneficial.  
 
 受中国古老谚语“开卷有益”（打开书卷，受益匪浅）的启发，开卷有益工作室是一个致力于推动协作学习和知识共享的开源项目。我们相信，学习应该是开放的、透明的，并且互惠互利。
